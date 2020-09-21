@@ -7,3 +7,7 @@ new sentence.
 another new sentence.
 
 a final new sentence.
+
+I added another sentence.
+
+this sentence has no capital letters or punctuation
