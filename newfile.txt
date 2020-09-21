@@ -1,9 +1,0 @@
-This is sentence 1.
-
-This is sentence 2!
-
-new sentence.
-
-another new sentence.
-
-a final new sentence.
